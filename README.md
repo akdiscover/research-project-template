@@ -32,7 +32,7 @@ You can download this folder structure on GitHub via `Code` -> `Download ZIP` (s
 
 ### 2) Edit this README
 
-The README should contain the information about your research project. For more information on writing good READMEs, please check out [the README chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html?highlight=readme) of The Turing Way book.
+The README should contain the material about your research project. For more matriall on writing good READMEs, please check out [the README chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html?highlight=readme) of The Turing Way book.
 
 ### 3) Adjust to your needs
 
